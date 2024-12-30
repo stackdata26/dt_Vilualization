@@ -1,2 +1,0 @@
-# dt_Vilualization
-Detail
